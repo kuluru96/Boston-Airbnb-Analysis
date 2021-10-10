@@ -31,12 +31,11 @@ The most common price listings are in the 50-200 USD range with the highest pric
 ### What are the Top Amenities that visitors look for?
 Top amenities are Wireless Internet, Heating, kitchen, Essentials, Smoke detector etc,.
 
-## Language and Libraries Used:
-Python3
-Numpy
-Pandas
-Matplotlib pyplot
-Seaborn
+## Libraries Used:
+Numpy,
+Pandas,
+Matplotlib pyplot,
+Seaborn and 
 Sklearn
 
 
