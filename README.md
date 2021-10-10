@@ -32,11 +32,11 @@ The most common price listings are in the 50-200 USD range with the highest pric
 Top amenities are Wireless Internet, Heating, kitchen, Essentials, Smoke detector etc,.
 
 ## Libraries Used:
--- Numpy
--- Pandas
--- Matplotlib pyplot
--- Seaborn 
--- Sklearn
+- Numpy
+- Pandas
+- Matplotlib pyplot
+- Seaborn 
+- Sklearn
 
 
 ## Deployment:
