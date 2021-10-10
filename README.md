@@ -34,6 +34,3 @@ Top amenities are Wireless Internet, Heating, kitchen, Essentials, Smoke detecto
 ## Deployment:
 Using Google Collab, but can also be run using jupypter notebook command.
 
-## Licensing, Authors, and Acknowledgements
-Licensing for the data and other descriptive information at the Kaggle link available here.
-
