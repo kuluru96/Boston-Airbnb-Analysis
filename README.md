@@ -1,27 +1,22 @@
 # Boston-Airbnb-Analysis
-Project-1: Udacity Boston Airbnb Data Analysis
-Table of Contents
-Installation
-Project Motivation
-File Descriptions
-Results
-Licensing, Authors, and Acknowledgements
-Installation
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-Project Motivation
+
+## Project Motivation
+
 This entire project is part of a Data Scientist Nanodegree Program by Udacity. The project aimes to apply CRISP-DM process in analytics of data of my choice. I have chosen the Boston Airbnb Data. Using this data I have tried to answer the following questions:
 
-What is the most popular listing by room type in Boston?
-What is the most popular neighbourhood in Boston among renters?
-Is it possible to predict the price of a listing and what are the main features for price prediction?
-File Descriptions
+What are the most popular neighbourhoods in Boston?
+What are the common Price Listings of AirBnbs in Boston?
+What are the Top Amenities that visitors look for?
+
+## File Descriptions
 There is one Jupyter Notebook file that contains all the analytics and codes. Markdown cells were used to assist in walking through the thought process for individual steps.
 
-Results
-You can find brief results below, for more detailed answers please refer to my blog post here:
+## Results
+You can find brief results below, for more detailed answers please refer to my blog post here: https://medium.com/@muralidhark36/boston-airbnb-analysis-72a39b751e5e
 
 What is the most popular listing by room type in Boston?
+
 Surprisingly, the most listed property by room type in Boston is the listing of Entire Home or Apartment and not the Private Room , having 59% market share against 38%. It is also well proven with the annual availability data which tells us that the Entire Home or Apartment is available up to 175 days in a year against 225 days of the Private Room .
 
 What is the most popular neighbourhood in Boston among renters?
